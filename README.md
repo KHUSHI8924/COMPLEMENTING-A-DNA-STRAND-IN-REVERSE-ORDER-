@@ -10,3 +10,7 @@ AAAACCCGGT
 Sample Output
 
 ACCGGGTTTT
+
+Author name
+
+Khushi Gupta 
